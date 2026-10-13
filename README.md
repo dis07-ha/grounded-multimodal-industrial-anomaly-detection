@@ -33,16 +33,10 @@ Maintenance and component replacement records.
 
 Machine metadata, including model and age.
 
-Dataset source: https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance
+*Dataset source: https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance*
 
 
-*Technologies Used*
 
-Python
-
-Pandas and NumPy
-
-Matplotlib
 
 Scikit-learn
 
