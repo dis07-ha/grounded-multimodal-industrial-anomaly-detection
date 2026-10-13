@@ -1,4 +1,4 @@
-Grounded Multimodal AI for Few-Shot Industrial Anomaly Detection and Root-Cause Analysis
+*Grounded Multimodal AI for Few-Shot Industrial Anomaly Detection and Root-Cause Analysis*
 
 
 This project aims to develop an AI-based industrial monitoring system that analyzes machine sensor readings, failure records, error logs, and maintenance history to identify unusual machine behaviour and predict potential component failures.
