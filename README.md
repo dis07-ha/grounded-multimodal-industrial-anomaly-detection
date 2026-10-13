@@ -5,6 +5,7 @@ This project aims to develop an AI-based industrial monitoring system that analy
 
 The system is designed to support predictive maintenance, evidence-based root-cause analysis, and what-if analysis under different operating conditions.
 
+
 *Objectives*
 
 Analyze machine operating conditions and maintenance history.
@@ -18,6 +19,7 @@ Investigate few-shot learning for limited-data scenarios.
 Identify probable failure causes using historical evidence.
 
 Explore what-if analysis, downtime prediction, and maintenance alerts.
+
 
 *Dataset*
 
@@ -35,11 +37,3 @@ Machine metadata, including model and age.
 
 *Dataset source: https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance*
 
-
-
-
-Scikit-learn
-
-Jupyter Notebook
-
-Git and GitHub
